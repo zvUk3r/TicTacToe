@@ -1,1 +1,1 @@
-# TicTacToe
+# tic-tac-toe console game
